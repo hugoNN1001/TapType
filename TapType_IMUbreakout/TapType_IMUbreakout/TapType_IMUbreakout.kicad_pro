@@ -256,7 +256,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "TapType.kicad_pro",
+    "filename": "TapType_IMUbreakout.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -411,18 +411,18 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "TapType.kicad_sch",
-        "name": "Root",
-        "uuid": "7935faf3-5a70-4969-8229-67dc67a493e5"
+        "filename": "TapType_IMUbreakout.kicad_sch",
+        "name": "TapType_IMUbreakout",
+        "uuid": "8e831d24-a276-4684-9178-4f62cb9678b8"
       }
     ],
-    "used_designators": "U1-2,J1,R1-6,R39,C1-11,D1-4,#PWR1-17,SW1-2",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [
     [
-      "7935faf3-5a70-4969-8229-67dc67a493e5",
-      "Root"
+      "8e831d24-a276-4684-9178-4f62cb9678b8",
+      "TapType_IMUbreakout"
     ]
   ],
   "text_variables": {},
